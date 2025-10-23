@@ -24,8 +24,9 @@ A temp-repo of FastAPI server for SNIST-CSE hackathon
 ## 🔁 Workflows
 
 <p align="center">
-  <h2><a href="https://raw.githubusercontent.com/srinivas-batthula/cse-hackathon-snist/refs/heads/assets/assets/snist_cse_hackathon_fastapi_img.svg" target="_blank">All features Workflow</a></h2>
-  <img src="assets/snist_cse_hackathon_fastapi_img.svg" width="90%" alt="Auth Feature Workflow" />
+  <h2><a href="https://raw.githubusercontent.com/srinivas-batthula/cse-hackathon-snist/refs/heads/main/assets/snist_cse_hackathon_fastapi_img.svg" target="_blank">All features Workflow</a></h2>
+  
+  <a href="https://raw.githubusercontent.com/srinivas-batthula/cse-hackathon-snist/refs/heads/main/assets/snist_cse_hackathon_fastapi.excalidraw">You can also <strong>import</strong> this file into <strong>Excalidraw</strong></a>
 
-  <a href="https://raw.githubusercontent.com/srinivas-batthula/cse-hackathon-snist/refs/heads/assets/assets/snist_cse_hackathon_fastapi.excalidraw">You can also <strong>import</strong> this file into <strong>Excalidraw</strong></a>
+  <img src="assets/snist_cse_hackathon_fastapi_img.svg" width="90%" alt="Auth Feature Workflow" />
 </p>
